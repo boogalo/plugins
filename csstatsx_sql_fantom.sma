@@ -9,7 +9,7 @@
 #include <fakemeta>
 #include <hamsandwich>
 
-#define PLUGIN "CSStatsX SQL"
+#define PLUGIN "CSStatsX SQL =)"
 #define VERSION "0.7.4"
 #define AUTHOR "serfreeman1337"	// AKA SerSQL1337
 
